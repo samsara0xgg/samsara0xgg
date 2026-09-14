@@ -1,6 +1,6 @@
 ### Hi, I'm Yilun (Allen) Shi
 
-CS + Math student at the University of Victoria, building AI tools and instruments.
+CS student at the University of Victoria, building AI tools and instruments.
 
 **Featured work**
 
@@ -11,6 +11,6 @@ CS + Math student at the University of Victoria, building AI tools and instrumen
   
 **Tooling**: [cc-switch](https://github.com/samsara0xgg/cc-switch) (Claude Code API key switcher) · [claude-skills](https://github.com/samsara0xgg/claude-skills) (custom Claude Code skills) · [typeless-local](https://github.com/samsara0xgg/typeless-local) (local speech-to-text transcription tool)
 
-**Stack**: Python · JavaScript / TypeScript · React · SQL · Swift
+**Stack**: Python · TypeScript · React · SQL · Swift
 
 **Contact**: alllllenshi@gmail.com
