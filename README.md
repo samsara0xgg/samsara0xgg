@@ -1,6 +1,6 @@
 # Yilun (Allen) Shi
 
-Builder of [Jarvis](https://github.com/samsara0xgg/Jarvis), a personal voice assistant I build and use every day.
+Builder of [Jarvis](https://github.com/samsara0xgg/Jarvis) and [TimeSink](https://github.com/samsara0xgg/timesink). I build tools for the way I work, from a personal voice assistant to automatic time tracking.
 
 Computer Science student at the University of Victoria, working on voice interfaces, macOS tools, and interactive audio software.
 
@@ -11,6 +11,12 @@ Computer Science student at the University of Victoria, working on voice interfa
 A personal voice assistant that lives beside the MacBook notch. It brings together English and Chinese conversations, Claude Code and Codex session monitoring, connected tools through MCP, and a record of the working day.
 
 Built around a Python daemon and an Electron/React companion, with a custom speech pipeline and explicit architectural boundaries.
+
+### [TimeSink](https://github.com/samsara0xgg/timesink) · [Download for macOS](https://d2e75eb005kjod.cloudfront.net/TimeSink.dmg)
+
+A native macOS menu bar app that automatically tracks apps and websites, turns activity into timelines and productivity insights, and helps protect focus with category budgets and timed sessions.
+
+Built with SwiftUI and SQLite, with optional foreground-window capture, on-device OCR, and cloud sync.
 
 ### [Typlus](https://github.com/samsara0xgg/typeless-local)
 
@@ -26,6 +32,6 @@ A MySQL project exploring versioned pages, data integrity, indexing, and query d
 
 ---
 
-**Working with:** Python · TypeScript · React · SQL · macOS APIs
+**Working with:** Python · TypeScript · Swift · React · SQL · macOS APIs
 
 [Email](mailto:alllllenshi@gmail.com)
